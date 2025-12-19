@@ -1,5 +1,4 @@
 vim
-nano
 gawk
 tree
 htop
